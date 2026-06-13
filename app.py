@@ -12,11 +12,11 @@ PADRON_FILE = "mesa_orden.xlsx"
 VOTOS_FILE = "votos_global.json"
 
 COORDINADORES = {
-    "Coordinador 1": [1, 2, 3, 4, 5],
-    "Coordinador 2": [6, 7, 8, 9, 10],
-    "Coordinador 3": [11, 12, 13, 14, 15],
-    "Coordinador 4": [16, 17, 18, 19, 20],
-    "Coordinador 5": [21, 22, 23, 24, 25],
+    "Saryd": [1, 2, 3, 4, 5],
+    "Tatiana": [6, 7, 8, 9, 10],
+    "Andrea": [11, 12, 13, 14, 15],
+    "Evelyn": [16, 17, 18, 19, 20],
+    "Natalia": [21, 22, 23, 24, 25],
 }
 
 
